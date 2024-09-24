@@ -19,11 +19,13 @@ namespace AlicundeApi.Controllers
     {
         private readonly ApplicationDbContext _context;
         private readonly IBank _iBank;
+        private readonly IData _iData;
 
-        public BanksController(ApplicationDbContext context, IBank iBank)
+        public BanksController(ApplicationDbContext context, IBank iBank, IData iData)
         {
             _context = context;
             _iBank = iBank;
+            _iData = iData;
         }
         // GET: api/ConsumeApi
         [HttpGet]
@@ -31,6 +33,7 @@ namespace AlicundeApi.Controllers
         public async Task<ActionResult<List<Banks>>> ConsumeApi()
         {
             var banks = await _iBank.GetAllBanks();
+            await _iData.SaveBanksAsync(banks);
             return banks;
         }
 
