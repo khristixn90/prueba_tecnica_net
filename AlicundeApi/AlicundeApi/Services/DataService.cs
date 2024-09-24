@@ -1,6 +1,7 @@
 ﻿using AlicundeApi.Context;
 using AlicundeApi.Interfaces;
 using AlicundeApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AlicundeApi.Services
 {
@@ -27,6 +28,14 @@ namespace AlicundeApi.Services
             }
             await _applicationDbContext.SaveChangesAsync();
             return allBanks;
+        }
+
+        public async Task<Bank> GetBankByPrimaryKey(int id)
+        {
+            var bank = await _applicationDbContext.Bank
+                .FirstOrDefaultAsync(c => c.id == id);
+
+            return bank;
         }
 
     }
