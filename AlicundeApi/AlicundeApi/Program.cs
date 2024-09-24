@@ -19,6 +19,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(
         options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
 
 builder.Services.AddHttpClient<IBank, BankService>();
+builder.Services.AddScoped<IData, DataService>();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
