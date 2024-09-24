@@ -1,4 +1,5 @@
 ﻿using AlicundeApi.Context;
+using AlicundeApi.Interfaces;
 using AlicundeApi.Models;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
@@ -6,7 +7,7 @@ using System.Runtime;
 
 namespace AlicundeApi.Services
 {
-    public class BankService
+    public class BankService : IBank
     {
         private readonly HttpClient _httpClient;
         private readonly Settings _settings;
