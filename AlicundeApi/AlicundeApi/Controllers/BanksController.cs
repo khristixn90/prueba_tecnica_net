@@ -27,7 +27,8 @@ namespace AlicundeApi.Controllers
             _iBank = iBank;
             _iData = iData;
         }
-        // GET: api/ConsumeApi
+
+        // GET: api/Banks/ConsumeApi
         [HttpGet]
         [Route("ConsumeApi")]
         public async Task<ActionResult<List<Banks>>> ConsumeApi()
@@ -37,7 +38,20 @@ namespace AlicundeApi.Controllers
             return banks;
         }
 
-        // GET: api/Banks
+        // GET: api/Banks/GetByPrimaryKey/5
+        [HttpGet]
+        [Route("GetByPrimaryKey/{id}")]
+        public async Task<ActionResult<List<Banks>>> GetByPrimaryKey(int id)
+        {
+            Bank bank = await _iData.GetBankByPrimaryKey(id);
+            if (bank == null)
+            {
+                return NoContent();
+            }
+            return Ok(bank);
+        }
+
+        // GET: api/Banks/5
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Bank>>> GetBank()
         {
