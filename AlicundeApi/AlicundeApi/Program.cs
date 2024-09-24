@@ -1,4 +1,7 @@
 using AlicundeApi.Context;
+using AlicundeApi.Interfaces;
+using AlicundeApi.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +11,14 @@ builder.Services.Configure<Settings>(builder.Configuration.GetSection("ApiSettin
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Alicunde API", Version = "v1" });
+});
+builder.Services.AddDbContext<ApplicationDbContext>(
+        options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+
+builder.Services.AddHttpClient<IBank, BankService>();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
