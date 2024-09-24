@@ -1,12 +1,245 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\context\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\context\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\migrations\\20240924124824_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\migrations\\20240924124824_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\interfaces\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\interfaces\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\alicundeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\alicundeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|c:\\projects\\workspacenet\\prueba_tecnica_net.git\\alicundeapi\\alicundeapi\\models\\banks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5224E8-F202-4159-8D38-BC410C1B391E}|AlicundeApi\\AlicundeApi.csproj|solutionrelative:alicundeapi\\models\\banks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Services\\DataService.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Services\\DataService.cs",
+              "RelativeToolTip": "AlicundeApi\\Services\\DataService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:00:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Interfaces\\IData.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Interfaces\\IData.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Interfaces\\IData.cs",
+              "RelativeToolTip": "AlicundeApi\\Interfaces\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:58:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BanksController.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Controllers\\BanksController.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Controllers\\BanksController.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Controllers\\BanksController.cs",
+              "RelativeToolTip": "AlicundeApi\\Controllers\\BanksController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:40:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Program.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Program.cs",
+              "RelativeToolTip": "AlicundeApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:56:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AlicundeApi\\appsettings.json",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\appsettings.json",
+              "RelativeToolTip": "AlicundeApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T11:56:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240924124824_initial.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Migrations\\20240924124824_initial.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Migrations\\20240924124824_initial.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Migrations\\20240924124824_initial.cs",
+              "RelativeToolTip": "AlicundeApi\\Migrations\\20240924124824_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:48:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Interfaces\\IBank.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Interfaces\\IBank.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Interfaces\\IBank.cs",
+              "RelativeToolTip": "AlicundeApi\\Interfaces\\IBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:43:16.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AlicundeApi\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:29:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Models\\Bank.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Models\\Bank.cs",
+              "RelativeToolTip": "AlicundeApi\\Models\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:28:29.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Context\\Settings.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Context\\Settings.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Context\\Settings.cs",
+              "RelativeToolTip": "AlicundeApi\\Context\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:57:53.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankService.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Services\\BankService.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Services\\BankService.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Services\\BankService.cs",
+              "RelativeToolTip": "AlicundeApi\\Services\\BankService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:53:57.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Banks.cs",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Models\\Banks.cs",
+              "RelativeDocumentMoniker": "AlicundeApi\\Models\\Banks.cs",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\Models\\Banks.cs",
+              "RelativeToolTip": "AlicundeApi\\Models\\Banks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:55:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlicundeApi",
+              "DocumentMoniker": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\AlicundeApi.csproj",
+              "RelativeDocumentMoniker": "AlicundeApi\\AlicundeApi.csproj",
+              "ToolTip": "C:\\Projects\\WorkspaceNet\\prueba_tecnica_net.git\\AlicundeApi\\AlicundeApi\\AlicundeApi.csproj",
+              "RelativeToolTip": "AlicundeApi\\AlicundeApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T11:54:54.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
